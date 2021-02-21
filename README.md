@@ -16,7 +16,7 @@ This result was obtained by superimposing every 15th frame.
 
 To install all the required libraries for the project to run
 
-	pip install -r requirements.txt
+	pip3 install -r requirements.txt
   
 Final image will be saved as "Imp_image.jpg" in the same directory.
 
