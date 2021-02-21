@@ -1,0 +1,4 @@
+opencv-python
+os
+python-magic
+Pillow
