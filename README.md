@@ -1,6 +1,6 @@
 # Video-Frame-Impose
 
-A small program written in Python 3 to export a video/media file into frames then using the exported images to create a superimposed image with varying alpha value and cutom frames as entered by user to form the final superimposed image.
+A small program written in Python 3 to export a video/media file into frames then using the exported images to create a superimposed image with varying alpha value and custom frames as entered by user to form the final superimposed image.
 
 ## Original test file
   "Stock footage provided by Videvo, downloaded from www.videvo.net"	
